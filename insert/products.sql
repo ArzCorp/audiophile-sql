@@ -1,0 +1,80 @@
+INSERT INTO `products` (`user_id`, `name`, `slug`, `short_name`, `description`, `category_id`, `price`, `main_image`, `first_image`, `second_image`, `third_image`)
+VALUES
+(
+  1,
+  "YX1 Wireless Earphones",
+  "yx1-earphones",
+  "YX1",
+  "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature.",
+  3,
+  599,
+  "https://i.ibb.co/n034jZ6/product-yx1-earphones-image-product.jpg",
+  "https://i.ibb.co/d0YXn5C/product-yx1-earphones-image-gallery-1.jpg",
+  "https://i.ibb.co/cTskmg5/product-yx1-earphones-image-gallery-2.jpg",
+  "https://i.ibb.co/QdB4vP0/product-yx1-earphones-image-gallery-3.jpg"
+),
+(
+  1,
+  "XX59 Headphones",
+  "xx59-headphones",
+  "XX59",
+  "Enjoy your audio almost anywhere and customize it to your specific tastes with the XX59 headphones. The stylish yet durable versatile wireless headset is a brilliant companion at home or on the move.",
+  1,
+  899,
+  "https://i.ibb.co/Npwhf3g/product-xx59-headphones-image-product.jpg",
+  "https://i.ibb.co/9sKxmYs/product-xx59-headphones-image-gallery-1.jpg",
+  "https://i.ibb.co/9v1VNQv/product-xx59-headphones-image-gallery-2.jpg",
+  "https://i.ibb.co/47fDfSK/product-xx59-headphones-image-gallery-3.jpg"
+),
+(
+  1,
+  "XX99 Mark I Headphones",
+  "xx99-mark-one-headphones",
+  "XX99",
+  "As the gold standard for headphones, the classic XX99 Mark I offers detailed and accurate audio reproduction for audiophiles, mixing engineers, and music aficionados alike in studios and on the go.",
+  1,
+  1750,
+  "https://i.ibb.co/r2sDBtW/product-xx99-mark-one-headphones-image-product.jpg",
+  "https://i.ibb.co/Xy4XJVS/product-xx99-mark-one-headphones-image-gallery-1.jpg",
+  "https://i.ibb.co/48RpKy5/product-xx99-mark-one-headphones-image-gallery-2.jpg",
+  "https://i.ibb.co/LYrFLrD/product-xx99-mark-one-headphones-image-gallery-3.jpg"
+),
+(
+  1,
+  "XX99 Mark II Headphones",
+  "xx99-mark-two-headphones",
+  "XX99",
+  "The new XX99 Mark II headphones is the pinnacle of pristine audio. It redefines your premium headphone experience by reproducing the balanced depth and precision of studio-quality sound.",
+  1,
+  2999,
+  "https://i.ibb.co/6b2psYC/product-xx99-mark-two-headphones-image-product.jpg",
+  "https://i.ibb.co/4PLpcwF/product-xx99-mark-two-headphones-image-gallery-1.jpg",
+  "https://i.ibb.co/SK00w1s/product-xx99-mark-two-headphones-image-gallery-2.jpg",
+  "https://i.ibb.co/RgzwjRz/product-xx99-mark-two-headphones-image-gallery-3.jpg"
+),
+(
+  1,
+  "ZX7 Speaker",
+  "zx7-speaker",
+  "ZX7",
+  "Stream high quality sound wirelessly with minimal to no loss. The ZX7 speaker uses high-end audiophile components that represents the top of the line powered speakers for home or studio use.",
+  2,
+  3500,
+  "https://i.ibb.co/JcT1T5c/product-zx7-speaker-image-product.jpg",
+  "https://i.ibb.co/Ks0NYF1/product-zx7-speaker-image-gallery-1.jpg",
+  "https://i.ibb.co/9hSZzq4/product-zx7-speaker-image-gallery-2.jpg",
+  "https://i.ibb.co/Nx6N8HG/product-zx7-speaker-image-gallery-3.jpg"
+),
+(
+  1,
+  "ZX9 Speaker",
+  "zx9-speaker",
+  "ZX9",
+  "Upgrade your sound system with the all new ZX9 active speaker. It’s a bookshelf speaker system that offers truly wireless connectivity -- creating new possibilities for more pleasing and practical audio setups.",
+  2,
+  4500,
+  "https://i.ibb.co/J5GntJD/product-zx9-speaker-image-product.jpg",
+  "https://i.ibb.co/KyfcdMV/product-zx9-speaker-image-gallery-1.jpg",
+  "https://i.ibb.co/7CPQ7cb/product-zx9-speaker-image-gallery-2.jpg",
+  "https://i.ibb.co/0MrjNfK/product-zx9-speaker-image-gallery-3.jpg"
+);
